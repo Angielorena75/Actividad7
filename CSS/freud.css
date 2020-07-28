@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url(../imagenes/fondo.jpg);
+    background-size: 100%;
+}
+
+.parrafo12{
+    font-size: 17px;
+    display: inline;
+}
+
+.container{
+    text-align: center;
+}
+
+.row{
+    text-align: center;
+}

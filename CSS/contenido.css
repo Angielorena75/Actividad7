@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    background-image: url(../imagenes/fondo.jpg);
+    background-size: 100%;
+}
+
+.z-depth-5{
+    text-align: center;
+    font-size: 17px;
+}
+
+footer{
+    width: 100%;
+}
+
+.redes{
+    text-align: center;
+}
+
+.ajusteicono{
+    display: inline;
+    margin: 50px 35px;
+}
+
+.texto{
+    text-align: center;
+    font-size: 16px;
+    
+}
+
+.main_header{
+    width: 100%;
+    height: 100px;
+    z-index: 101;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+    
+    .menu ul{
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        display: inline-flex;
+        
+    }
+    
+    .menu li{
+        padding-top: 2px;
+        padding-left: 30px;
+    }
+    
+    .menu li a:hover{
+        color: darkred;
+        text-decoration: overline;
+    }
+    
+    .menu li a{
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+        color: #000000;
+    }
+
+
+
+
+
+
